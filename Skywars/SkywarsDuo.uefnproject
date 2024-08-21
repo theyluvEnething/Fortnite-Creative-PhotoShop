@@ -1,0 +1,45 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "SkywarsDuo",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "29.40",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "SkywarsDuo",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 100,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "5e74761d-4bb5-e8ab-27b8-479aa31020e7",
+		"projectVersePath": "",
+		"modules":
+		{
+			"SkywarsDuo": "6fa29d7a-4746-1d2e-99bf-38bde7d516a5"
+		}
+	}
+}

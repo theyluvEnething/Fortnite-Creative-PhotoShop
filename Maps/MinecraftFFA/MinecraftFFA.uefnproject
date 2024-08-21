@@ -1,0 +1,43 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "MinecraftFFA",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "28.01",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "MinecraftFFA",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 10,
+			"maxTeamCount": 10,
+			"maxTeamSize": 10,
+			"maxSocialPartySize": 10,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "ea2ba672-4bc0-0557-0207-cda793925085",
+		"projectVersePath": "",
+		"modules":
+		{
+			"MinecraftFFA": "dd402ca0-419d-4e08-c561-c78f81453036"
+		}
+	}
+}
